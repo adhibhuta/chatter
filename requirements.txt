@@ -18,6 +18,7 @@ python-dateutil==2.7.5
 pytz==2018.9
 PyYAML==3.13
 requests==2.21.0
+simple-websocket-server==0.4.0
 singledispatch==3.4.0.3
 six==1.12.0
 spacy==2.1.3
