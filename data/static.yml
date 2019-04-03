@@ -1,0 +1,55 @@
+categories:
+- Fast Pay
+- Faster Payments
+conversations:
+- - What is a Fast payment?
+  - Fast is an innovative real time payment service that is available round the clock. This service empowers customers to transfer money instantly through banks.
+- - What are the benefits of Fast payment?
+  - Instant, Available 24 x7 (functional even on holidays), Safe and secure, easily accessible and cost effective, Can be initiated from different channels Mobile/ Internet Banking, Debit & Credit Confirmations
+- - What are the services available under fast payment?
+  - Sending money, Receiving money, Collections, and Proxy resolution
+- - Do I need to register before initiating Fast payment?
+  - If customers are using mobile banking / internet banking already, then there is no separate registration required.
+- - Beneficiary customer need to register for Fast payment?
+  - No registration required to receive money using bank a/c details. However if money is expected to receive using proxy ID (mobile number), then Mobile registration is required.
+- - How do I know if my beneficiary bank is participating in Fast?
+  - While initiating Fast transaction from channels, list of participants will be shown
+- - Can I send a debit request via Fast?
+  - Depends on country offering. HK Fast supports debit transfers.
+- - How do I get Fast product enabled in my a/c?
+  - Sender- If customers are using mobile banking / internet banking already, then there is no separate registration required. and Receiver- No registration required to receive money using bank a/c details. However if money is expected to receive using proxy ID (mobile number), then Mobile registration is required
+- - Can I initiate Fast payment over the weekends or holidays?
+  - Available 24 x7 (functional even on holidays)
+- - Is there a charge for a transfer & receiving fund via Fast?
+  - Outward- Depending on country, client segment, charges are applicable. and Inward- No charges
+- - How do I know if the payment is successful?
+  - Initiating customers bank provides a confirmation after successful processing confirmation from clearing house. Same is updated back to customer.
+- - Can I transfer money to an overseas account?
+  - Only local transfers are supported in Fast
+- - What should I do if I transfer funds to the wrong payee?
+  - Customer should register a compliant with the bank
+- - Does Fast support currency exchange?
+  - Fast support only same currency transactions
+- - Can I initiate a future dated FAST payment?
+  - Fast support only same day transactions
+- - How can I use my mobile number or email address to receive funds?
+  - If customer requires using proxy ID (mobile number/email ID), then Mobile/email registration is required as proxy ID
+- - What are the operating hours of Fast payment?
+  - Available 24 x7 (functional even on holidays)
+- - My payment got rejected, what to do?
+  - Please check reject reason and re-initiate with corrections if required and Contact bank for further information
+- - How do I know the payment rejection reason?
+  - When payments are rejected, respective reject reasons are updated back to channels. Pls refer rejection reason in transaction history
+- - What is minimum & maximum amount threshold for fast?
+  - Depending on country – IN – INR2,00,000
+- - Can I initiate FAST payment with credit card as source?
+  - Currently no. Future requirements are in pipeline to support credit card as source
+- - Can I initiate a stop request for a FAST payment which I have already sent?
+  - Since Fast is processed instantly, stop request is not supported. Customer should contact for Post payment reversals
+- - What are the currencies supported in FAST Payments?
+  - HK- CNY/HKD | IN- INR | SG- SGD
+- - Can I send FAST Payment to any Bank?
+  - While initiating Fast transaction from channels, list of participants will be shown
+- - I know only bene mobile number/proxy id. Can I send payment via FAST Clearing?
+  - If beneficiary has registered mobile number/email id as proxy ID, then customer can initiate using the same.
+
