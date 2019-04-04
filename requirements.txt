@@ -3,9 +3,14 @@ certifi==2019.3.9
 chardet==3.0.4
 ChatterBot==1.0.5
 chatterbot-corpus==1.2.0
+Click==7.0
 cymem==2.0.2
+Flask==1.0.2
 idna==2.8
+itsdangerous==1.1.0
+Jinja2==2.10
 jsonschema==2.6.0
+MarkupSafe==1.1.1
 mathparse==0.1.2
 murmurhash==1.0.2
 nltk==3.4
@@ -28,3 +33,4 @@ thinc==7.0.4
 tqdm==4.31.1
 urllib3==1.24.1
 wasabi==0.2.1
+Werkzeug==0.15.2
