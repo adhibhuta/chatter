@@ -21,7 +21,7 @@ preshed==2.0.1
 pymongo==3.7.2
 python-dateutil==2.7.5
 pytz==2018.9
-PyYAML==3.13
+PyYAML==5.4
 requests==2.21.0
 simple-websocket-server==0.4.0
 singledispatch==3.4.0.3
